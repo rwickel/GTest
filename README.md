@@ -65,6 +65,9 @@ chmod +x build_and_test.sh
 ./build_and_test.sh
 ```
 
+![image](https://github.com/user-attachments/assets/4466c8d4-8f08-4fbe-b274-611b4f001571)
+
+
 #### What the Script Does:
 - **Cleans the Build Directory**: Removes any existing `build` directory to ensure a clean build.
 - **Creates the Build Directory**: Initializes a new `build` directory.
